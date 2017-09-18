@@ -1,0 +1,5 @@
+.sb-wrap {
+  white-space: -moz-pre-wrap; /* Firefox 1.0-2.0 */
+  white-space: pre-wrap;      /* 現行ブラウザ */
+  word-wrap: break-word;      /* IE 5.5-7 */
+}
